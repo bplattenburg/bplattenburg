@@ -1,4 +1,7 @@
-### Hi there 👋
+Senior Customer Experience Engineer @getditto, helping customers build apps that can sync with and without the internet!
+
+- 10+ years developing iOS Apps
+- Server-side Swift hobbyist
 
 <!--
 **bplattenburg/bplattenburg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
